@@ -1,3 +1,6 @@
+# Live:- https://arc-invoice-8dbn.vercel.app/
+
+
 # ArcInvoice — Stablecoin Invoicing on Circle Arc
 
 **ArcInvoice** is a full-stack, non-custodial stablecoin invoicing application built for freelancers, agencies, and web3 developers. It enables businesses to bill clients in USDC, generate branded payment links and QR codes, accept payments on Circle's Arc Layer 1 blockchain, and automatically verify settlement through independent on-chain transaction logs.
